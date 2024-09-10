@@ -1,10 +1,10 @@
 {
-	"version": "https://raw.githubusercontent.com/realphandat/phandat-selfbot/main/assets/version.txt",
+	"version": "https://github.com/hieuder/mainets-pd/raw/main/version.txt",
 
-	"intro": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/intro.txt",
+	"intro": "https://github.com/hieuder/mainets-pd/raw/main/intro.txt",
 
 	"key": {
-		"payment": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/key/payment.txt",
-		"trial": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/key/trial.txt"
+		"payment": "https://github.com/hieuder/mainets-pd/raw/main/payment.txt",
+		"trial": "https://github.com/hieuder/mainets-pd/raw/main/trial.txt"
 	}
 }
